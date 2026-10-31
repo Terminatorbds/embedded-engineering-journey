@@ -1,0 +1,24 @@
+@'
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# Build directories
+build/
+Debug/
+Release/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+'@ | Set-Content .gitignore
