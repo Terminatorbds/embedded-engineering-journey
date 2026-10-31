@@ -1,4 +1,3 @@
-@'
 # Embedded Engineering Journey
 
 A practical learning journey toward becoming an Embedded Software Engineer.
